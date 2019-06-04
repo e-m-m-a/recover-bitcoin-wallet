@@ -7,7 +7,7 @@ For all of the following actions your should load the page and go offline. This 
 
 Decrypt the wallet.aes.json using  
 
-https://github.com/pinheadmz/DecryptWallet (nothing else I found can do this nowadays, blockchain have helpfully removed their own tool). 
+https://github.com/pinheadmz/DecryptWallet (nothing else I found can do this nowadays, blockchain.info have helpfully removed their own tool). 
 
 
 Take the private key it outputs, the one one alongside the bitcoin address and enter in the Bitcoin Address Base58 Decoder (the middle decoder) here http://lenschulwitz.com/base58
