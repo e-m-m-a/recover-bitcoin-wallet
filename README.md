@@ -19,9 +19,7 @@ Scroll down, copy the "Private Key WIF" and you are done.
 Use that key to import the address into your wallet of choice. https://electrum.org/#home will be fine, or try coinomi. 
 
 
-
-
-Feel free to send me a tip: 3AmLzNUPZtTyHVApGrDx6x2u4t9jQwAzEw
+3AmLzNUPZtTyHVApGrDx6x2u4t9jQwAzEw
 
 
 
