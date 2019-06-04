@@ -19,7 +19,7 @@ Scroll down, copy the "Private Key WIF" and you are done/ Use that to import it 
 
 
 
-
+Feel free to send me a tip: 3AmLzNUPZtTyHVApGrDx6x2u4t9jQwAzEw
 
 
 
