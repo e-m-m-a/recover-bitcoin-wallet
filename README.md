@@ -14,7 +14,9 @@ Take the private key it outputs, the one one alongside the bitcoin address and e
 
 Copy and poste that output into https://www.bitaddress.org 
 
-Scroll down, copy the "Private Key WIF" and you are done/ Use that to import it into your wallet of choice. https://electrum.org/#home will be fine. 
+Scroll down, copy the "Private Key WIF" and you are done.
+
+Use that key to import the address into your wallet of choice. https://electrum.org/#home will be fine, or try coinomi. 
 
 
 
