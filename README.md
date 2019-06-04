@@ -1,17 +1,20 @@
 This is how to recover a 2013 Blockchain.info wallet. (wallet.aes.json)
 This uses a propriety format that will ruin your day unless you use this method.
 
-This assumes you know the password. For all of the following actions your should load the page and go offline. This might protect you from malware. This information is provided without warrantly, used at your own risk etc.
+This howto assumes you know the password to the wallet. 
 
-Decrypt the wallet.aes.json with 
+For all of the following actions your should load the page and go offline. This might protect you from malware. This information is provided without warrantly, used at your own risk etc.
 
-https://github.com/pinheadmz/DecryptWallet (nothing else I found can do this nowadays). 
+Decrypt the wallet.aes.json using  
 
-Take the private key it outputs and enter in the Bitcoin Address Base58 Decoder here http://lenschulwitz.com/base58
+https://github.com/pinheadmz/DecryptWallet (nothing else I found can do this nowadays, blockchain have helpfully removed their own tool). 
 
-Enter that output into https://www.bitaddress.org 
 
-Copy the Private Key WIF and use that to import it into your wallet of choice. https://electrum.org/#home will be fine. 
+Take the private key it outputs, the one one alongside the bitcoin address and enter in the Bitcoin Address Base58 Decoder (the middle decoder) here http://lenschulwitz.com/base58
+
+Copy and poste that output into https://www.bitaddress.org 
+
+Scroll down, copy the "Private Key WIF" and you are done/ Use that to import it into your wallet of choice. https://electrum.org/#home will be fine. 
 
 
 
