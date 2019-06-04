@@ -1,7 +1,7 @@
 This is how to recover a 2013 Blockchain.info wallet. (wallet.aes.json)
 This uses a propriety format that will ruin your day unless you use this method.
 
-This howto assumes you know the password to the wallet. 
+This howto assumes you know the password to the wallet. If not, try here. https://github.com/gurnec/btcrecover
 
 For all of the following actions your should load the page and go offline. This might protect you from malware. This information is provided without warrantly, used at your own risk etc.
 
